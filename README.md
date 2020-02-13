@@ -3,7 +3,6 @@ Great 100 day challenge example: [Avik-Jain's work](https://github.com/Avik-Jain
 Learning path follows [第二屆 機器學習 百日馬拉松](https://ai100-2.cupoy.com/)
 
 ## 1. OVERVIEW TO DATA ANALYSIS PROCESS
-
 * Reference  
 [HOW DO I START A DATA PROJECT: UNDERSTANDING THE LIFECYCLE OF A DATA ANALYSIS PROJECT](https://www.northeastern.edu/graduate/blog/data-analysis-project-lifecycle/)  
 [COURSERA：Reproducible Research-Structure of a Data Analysis by Johns Hopkins University](https://www.coursera.org/lecture/reproducible-research/structure-of-a-data-analysis-part-1-zHHZf)  
