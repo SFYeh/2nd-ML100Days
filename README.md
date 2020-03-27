@@ -13,7 +13,8 @@ Learning path follows [第二屆 機器學習 百日馬拉松](https://ai100-2.c
 ### 4.2 UNSUPERVISED LEARNING：CLUSTERING & SOME MULTIVARIATE TECHNIQUE
 ## 5. DEEP LEARNING
 
-## DIGGING DEEPER|EDA
+## DIGGING DEEPER|Numpy
+It's definitely a bad idea to run loop in python. So Numpy become a good choice.
 
 
 
