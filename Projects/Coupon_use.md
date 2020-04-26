@@ -7,7 +7,7 @@
   * Fill NA  
   * Feature scaling   (Min_Max)
   * Feature Selection (XGBOOST)
-    * five important features：discount_convRate,Distance, received_size,discount_conditionP,discount_Price
+    * four important features：discount_convRate,Distance, received_size,discount_conditionP
   * Model (Logistic regression 
    * Tune Parameters (Evaluate with roc_auc_score, try to reduce influence of inbalance)
 * 分析結果  
