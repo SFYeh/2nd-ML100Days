@@ -12,4 +12,7 @@
    * Tune Parameters (Evaluate with roc_auc_score, try to reduce influence of inbalance)
 * 分析結果  
 * 未來可嘗試的改善  
+  * avoid using label to fill value in trainingset, since we do not have the label in testset
+  * better way to fill value may be prediction
+  * model choosing (why this model)
   * balance the data  (sampling or SMOTE)
