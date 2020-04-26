@@ -3,7 +3,7 @@
 * 資料集：[Midterm exam for ML 100 marathon by Cupoy](https://www.kaggle.com/c/ml100marathon-02-01/data)
 * 分析步驟
   * Feature generation  
-  * Outlier detection & replacement  
+  * Outlier detection & replacement (>1.5 IR) 
   * Fill NA  
   * Feature scaling   (Min_Max)
   * Feature Selection (XGBOOST)
