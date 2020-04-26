@@ -7,9 +7,10 @@
   * Fill NA  
   * Feature scaling   (Min_Max)
   * Feature Selection (XGBOOST)
+    * Evaluate with roc_auc_score, try to reduce influence of inbalance
     * four important features：discount_convRate,Distance, received_size,discount_conditionP
   * Model (Logistic regression 
-   * Tune Parameters (Evaluate with roc_auc_score, try to reduce influence of inbalance)
+   * Tune Parameters (grid search)
 * 分析結果  
 * 未來可嘗試的改善  
   * avoid using label to fill value in trainingset, since we do not have the label in testset
