@@ -10,7 +10,6 @@
   * Feature scaling   (Min_Max)
   * Balance the data  (SMOTE)
   * Feature Selection (XGBOOST)
-    * Evaluate with roc_auc_score, try to reduce influence of inbalance
     * important features：
       1. 'discount_convRate'(折扣率),
       2. 'Distance'(與店家距離), 
