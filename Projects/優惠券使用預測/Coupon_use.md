@@ -13,7 +13,7 @@
   * Model (Logistic regression 
    * Tune Parameters (grid search)
 * 分析結果  
-
+https://github.com/SFYeh/2nd-ML100Days/blob/master/Projects/%E5%84%AA%E6%83%A0%E5%88%B8%E4%BD%BF%E7%94%A8%E9%A0%90%E6%B8%AC/%E5%84%AA%E6%83%A0%E5%88%B8%E9%A0%90%E6%B8%AC.PNG
 * 未來可嘗試的改善  
   * avoid using label to fill value in trainingset, since we do not have the label in testset
   * better way to fill value may be prediction
