@@ -10,14 +10,14 @@
   * Feature scaling   (Min_Max)
   * Balance the data  (SMOTE)
   * Feature Selection (XGBOOST)
-    * important features：
-      1. 'discount_convRate'(折扣率),
-      2. 'Distance'(與店家距離), 
+    * important features (依重要度排序)：
+      1. 'Distance'(與店家距離),
+      2. 'discount_convRate'(折扣率), 
       3. 'received_size'(當天收到的優惠券數量),
       4. 'discount_conditionP'(需要花費多少金額才能使用優惠券),
-      5. 'week_3'(當月第三週),
+      5. 'week_3'(當月第三週,binary),
       6. 'discount_Price'(折扣金額),
-      7. 'week_4'(當月第四週)
+      7. 'week_4'(當月第四週,binary)
   * Model (Logistic regression 
    * Tune Parameters (grid search)
 * 分析結果  
