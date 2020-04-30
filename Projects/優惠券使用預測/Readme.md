@@ -31,6 +31,7 @@
 * 預測未來可嘗試的改善  
   * better way to fill value may be prediction
   * model choosing (why this model)
+  * 雖然參數調整已經用cv了，但validation set評估的時候也可以再用一次cv看看結果
   
  ------------------------
  額外統計分析
