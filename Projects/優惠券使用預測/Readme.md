@@ -10,18 +10,20 @@ O2O（Online to Offline）是一種利用線上活動 (網路商店、促銷通�
 * 欄位說明
 ![avatar](https://github.com/SFYeh/2nd-ML100Days/blob/master/Projects/%E5%84%AA%E6%83%A0%E5%88%B8%E4%BD%BF%E7%94%A8%E9%A0%90%E6%B8%AC/%E8%B3%87%E6%96%99%E6%AC%84%E4%BD%8D%E8%AA%AA%E6%98%8E.PNG)
 
-* Metric：AUC
 * 分析步驟
 
+![avatar](https://github.com/SFYeh/2nd-ML100Days/blob/master/Projects/%E5%84%AA%E6%83%A0%E5%88%B8%E4%BD%BF%E7%94%A8%E9%A0%90%E6%B8%AC/%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B.PNG)
+
+* 重要特徵
 * 分析結果 
 
 ![avatar](https://github.com/SFYeh/2nd-ML100Days/blob/master/Projects/%E5%84%AA%E6%83%A0%E5%88%B8%E4%BD%BF%E7%94%A8%E9%A0%90%E6%B8%AC/%E5%84%AA%E6%83%A0%E5%88%B8%E9%A0%90%E6%B8%AC%E7%B5%90%E6%9E%9C.PNG)
 
-* 預測未來可嘗試的改善  
+* [程式碼連結](https://github.com/SFYeh/2nd-ML100Days/blob/master/Projects/%E5%84%AA%E6%83%A0%E5%88%B8%E4%BD%BF%E7%94%A8%E9%A0%90%E6%B8%AC/%E5%84%AA%E6%83%A0%E5%88%B8%E4%BD%BF%E7%94%A8%E9%A0%90%E6%B8%ACver6.ipynb)
+
+* 未來可嘗試的改善  
   * better way to fill value may be prediction
   * model choosing (why this model)
   * 雖然參數調整已經用cv了，但validation set評估的時候也可以再用一次cv看看結果
-  
- ------------------------
- 額外統計分析
+  * 額外統計分析
  
